@@ -1,5 +1,5 @@
 # 💫 About Me:
-im a vibe corder i know php c++ c# pyhton htmll css javascript rust sql anr ardino corder
+Hey Everyone My self Apurba . In vibe corder! wellcome to my Git Profile
 
 
 ## 🌐 Socials:
